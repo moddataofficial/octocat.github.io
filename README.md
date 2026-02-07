@@ -1,1 +1,1 @@
-# octocat.github.io.KocSoft.com
+KocSoft.com
